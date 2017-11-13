@@ -4,6 +4,18 @@ The list is highly subjective and by no means complete. If you need more compreh
 
 If you'd like to contribute then, possibly don't, suggestions are welcomed, but merges aren't guaranteed.
 
+## Consensus
+
+## Database
+
+## Datastore
+
+## Gossip
+
+## Locking
+
+## Scheduler
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
