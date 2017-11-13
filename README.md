@@ -2,7 +2,7 @@
 
 The list is highly subjective and by no means complete. If you need more comprehensive list of papers, then probably [Papers We Love](https://github.com/papers-we-love/papers-we-love) is much better resource.
 
-If you'd like to contribute then, possibly don't, suggestions are welcomed, but merges aren't guaranteed.
+If you'd like to contribute, then possibly don't, suggestions are welcomed, but merges aren't guaranteed. Thanks!
 
 ## Consensus
 
@@ -15,6 +15,10 @@ If you'd like to contribute then, possibly don't, suggestions are welcomed, but 
 ## Locking
 
 ## Scheduler
+
+## Acknowledgements
+
+Infinite number of kudos go to the paper authors.
 
 ## License
 
