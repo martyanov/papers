@@ -1,24 +1,60 @@
 ## Overview
 
-The list is highly subjective and by no means complete. If you need more comprehensive list of papers, then probably [Papers We Love](https://github.com/papers-we-love/papers-we-love) is much better resource.
-
-If you'd like to contribute, then possibly don't, suggestions are welcomed, but merges aren't guaranteed. Thanks!
+The list is highly subjective and by no means complete. If you need more comprehensive list of papers, then probably [Papers We Love](https://github.com/papers-we-love/papers-we-love) is a much better resource.
 
 ## Consensus
 
+* [A simple totally ordered broadcast protocol](consensus/a_simple_totally_ordered_broadcast_protocol.pdf)
+* [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](consensus/amazon_aurora_on_avoiding_distributed_consensus_for_i_os_commits_and_membership_changes.pdf)
+* [In Search of an Understandable Consensus Algorithm](consensus/in_search_of_an_understandable_consensus_algorithm.pdf)
+* [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](consensus/logical_physical_clocks_and_consistent_snapshots_in_globally_distributed_databases.pdf)
+* [Paxos Made Live - An Engineering Perspective](consensus/paxos_made_live_an_engineering_perspective.pdf)
+* [Paxos Made Simple](consensus/paxos_made_simple.pdf)
+* [Time, Clocks, and the Ordering of Events in a Distributed System](consensus/time_clocks_and_the_ordering_of_events_in_a_distributed_system.pdf)
+* [Unreliable Failure Detectors for Reliable Distributed Systems](consensus/unreliable_failure_detectors_for_reliable_distributed_systems.pdf)
+* [Viewstamped Replication Revisited](consensus/viewstamped_replication_revisited.pdf)
+
 ## Database
+
+* [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](database/amazon_aurora_design_considerations_for_high_throughput_cloud_native_relational_databases.pdf)
+* [Cassandra - A Decentralized Structured Storage System](database/cassandra_a_decentralized_structured_storage_system.pdf)
+* [Dynamo: Amazon’s Highly Available Key-value Store](database/dynamo_amazon_s_highly_available_key_value_store.pdf)
+* [F1: A Distributed SQL Database That Scales](database/f1_a_distributed_sql_database_that_scales.pdf)
+* [Large-scale Incremental Processing Using Distributed Transactions and Notifications](database/large_scale_incremental_processing_using_distributed_transactions_and_notifications.pdf)
+* [Procella: Unifying serving and analytical data at YouTube](database/procella_unifying_serving_and_analytical_data_at_youtube.pdf)
+* [Spanner: Becoming a SQL System](database/spanner_becoming_a_sql_system.pdf)
+* [Spanner: Google’s Globally-Distributed Database](database/spanner_google_s_globally_distributed_database.pdf)
 
 ## Datastore
 
+* [Bigtable: A Distributed Storage System for Structured Data](datastore/bigtable_a_distributed_storage_system_for_structured_data.pdf)
+* [CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data](datastore/crush_controlled_scalable_decentralized_placement_of_replicated_data.pdf)
+* [Ceph: A Scalable, High-Performance Distributed File System](datastore/ceph_a_scalable_high_performance_distributed_file_system.pdf)
+* [Dynamic Metadata Management for Petabyte-scale File Systems](datastore/dynamic_metadata_management_for_petabyte_scale_file_systems.pdf)
+* [Facebook’s Tectonic Filesystem: Efficiency from Exascale](datastore/facebook_s_tectonic_filesystem_efficiency_from_exascale.pdf)
+* [Finding a needle in Haystack: Facebook’s photo storage](datastore/finding_a_needle_in_haystack_facebook_s_photo_storage.pdf)
+* [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](datastore/megastore_providing_scalable_highly_available_storage_for_interactive_services.pdf)
+* [RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters](datastore/rados_a_scalable_reliable_storage_service_for_petabyte_scale_storage_clusters.pdf)
+* [Replex: A Scalable, Highly Available Multi-Index Data Store](datastore/replex_a_scalable_highly_available_multi_index_data_store.pdf)
+* [SLM-DB: Single-Level Key-Value Store with Persistent Memory](datastore/slm_db_single_level_key_value_store_with_persistent_memory.pdf)
+* [The Google File System](datastore/the_google_file_system.pdf)
+* [WiscKey: Separating Keys from Values in SSD-conscious Storage](datastore/wisckey_separating_keys_from_values_in_ssd_conscious_storage.pdf)
+* [f4: Facebook’s Warm BLOB Storage System](datastore/f4_facebook_s_warm_blob_storage_system.pdf)
+
 ## Gossip
+
+* [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership](gossip/swim_scalable_weakly_consistent_infection_style_process_group_membership_protocol.pdf)
 
 ## Locking
 
+* [The Chubby lock service for loosely-coupled distributed systems](locking/the_chubby_lock_service_for_loosely_coupled_distributed_systems.pdf)
+
 ## Scheduler
 
-## Acknowledgements
-
-Infinite number of kudos go to the paper authors.
+* [Borg, Omega, and Kubernetes](scheduler/borg_omega_and_kubernetes.pdf)
+* [Large-scale cluster management at Google with Borg](scheduler/large_scale_cluster_management_at_google_with_borg.pdf)
+* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](scheduler/mesos_a_platform_for_fine_grained_resource_sharing_in_the_data_center.pdf)
+* [Omega: flexible, scalable schedulers for large compute clusters](scheduler/omega_flexible_scalable_schedulers_for_large_compute_clusters.pdf)
 
 ## License
 
