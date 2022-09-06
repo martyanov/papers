@@ -2,6 +2,10 @@
 
 The list is highly subjective and by no means complete. If you need more comprehensive list of papers, then probably [Papers We Love](https://github.com/papers-we-love/papers-we-love) is a much better resource.
 
+## Algorithms and data structures
+
+* [Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility](algorithms/hashed_and_hierarchical_timing_wheels_efficient_data_structures_for_implementing_a_timer_facility.pdf)
+
 ## Consensus
 
 * [A simple totally ordered broadcast protocol](consensus/a_simple_totally_ordered_broadcast_protocol.pdf)
