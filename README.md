@@ -28,6 +28,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [Procella: Unifying serving and analytical data at YouTube](database/procella_unifying_serving_and_analytical_data_at_youtube.pdf)
 * [Spanner: Becoming a SQL System](database/spanner_becoming_a_sql_system.pdf)
 * [Spanner: Google’s Globally-Distributed Database](database/spanner_google_s_globally_distributed_database.pdf)
+* [Are You Sure You Want to Use MMAP in Your Database Management System?](database/are_you_sure_you_want_to_use_mmap_in_your_database_management_system.pdf)
 
 ## Datastore
 
