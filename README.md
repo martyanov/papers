@@ -4,12 +4,15 @@ The list is highly subjective and by no means complete. If you need more compreh
 
 ## Algorithms and data structures
 
+* [FIFO Queues are All You Need for Cache Eviction](algorithms/fifo_queues_are_all_you_need_for_cache_eviction.pdf)
 * [Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility](algorithms/hashed_and_hierarchical_timing_wheels_efficient_data_structures_for_implementing_a_timer_facility.pdf)
+* [SPFresh: Incremental In-Place Update for Billion-Scale Vector Search](algorithms/spfresh_incremental_in_place_update_for_billion_scale_vector_search.pdf)
 
 ## Consensus
 
 * [A simple totally ordered broadcast protocol](consensus/a_simple_totally_ordered_broadcast_protocol.pdf)
 * [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](consensus/amazon_aurora_on_avoiding_distributed_consensus_for_i_os_commits_and_membership_changes.pdf)
+* [Calvin: Fast Distributed Transactions for Partitioned Database Systems](consensus/calvin_fast_distributed_transactions_for_partitioned_database_systems.pdf)
 * [In Search of an Understandable Consensus Algorithm](consensus/in_search_of_an_understandable_consensus_algorithm.pdf)
 * [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](consensus/logical_physical_clocks_and_consistent_snapshots_in_globally_distributed_databases.pdf)
 * [Paxos Made Live - An Engineering Perspective](consensus/paxos_made_live_an_engineering_perspective.pdf)
