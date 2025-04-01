@@ -32,6 +32,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [F1: A Distributed SQL Database That Scales](database/f1_a_distributed_sql_database_that_scales.pdf)
 * [Large-scale Incremental Processing Using Distributed Transactions and Notifications](database/large_scale_incremental_processing_using_distributed_transactions_and_notifications.pdf)
 * [Procella: Unifying serving and analytical data at YouTube](database/procella_unifying_serving_and_analytical_data_at_youtube.pdf)
+* [Spanner, TrueTime & The CAP Theorem](database/spanner_truetime_and_the_cap_theorem.pdf)
 * [Spanner: Becoming a SQL System](database/spanner_becoming_a_sql_system.pdf)
 * [Spanner: Google’s Globally-Distributed Database](database/spanner_google_s_globally_distributed_database.pdf)
 
