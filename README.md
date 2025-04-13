@@ -40,6 +40,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 ## Datastore
 
 * [Bigtable: A Distributed Storage System for Structured Data](datastore/bigtable_a_distributed_storage_system_for_structured_data.pdf)
+* [CFS: A Distributed File System for Large Scale Container Platforms](datastore/cfs_a_distributed_file_system_for_large_scale_container_platforms.pdf)
 * [CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data](datastore/crush_controlled_scalable_decentralized_placement_of_replicated_data.pdf)
 * [Ceph: A Scalable, High-Performance Distributed File System](datastore/ceph_a_scalable_high_performance_distributed_file_system.pdf)
 * [Dynamic Metadata Management for Petabyte-scale File Systems](datastore/dynamic_metadata_management_for_petabyte_scale_file_systems.pdf)
