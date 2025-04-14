@@ -22,6 +22,10 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [Unreliable Failure Detectors for Reliable Distributed Systems](consensus/unreliable_failure_detectors_for_reliable_distributed_systems.pdf)
 * [Viewstamped Replication Revisited](consensus/viewstamped_replication_revisited.pdf)
 
+## Correctness, testing and implementation
+
+* [Simple Testing Can Prevent Most Critical Failures](correctness/simple_testing_can_prevent_most_critical_failures.pdf)
+
 ## Database
 
 * [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](database/amazon_aurora_design_considerations_for_high_throughput_cloud_native_relational_databases.pdf)
