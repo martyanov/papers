@@ -24,14 +24,14 @@ The list is highly subjective and by no means complete. If you need more compreh
 
 ## Correctness, testing and implementation
 
+* [Are You Sure You Want to Use MMAP in Your Database Management System?](correctness/are_you_sure_you_want_to_use_mmap_in_your_database_management_system.pdf)
+* [Can Applications Recover from fsync Failures?](correctness/can_applications_recover_from_fsync_failures.pdf)
 * [Simple Testing Can Prevent Most Critical Failures](correctness/simple_testing_can_prevent_most_critical_failures.pdf)
 
 ## Database
 
 * [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](database/amazon_aurora_design_considerations_for_high_throughput_cloud_native_relational_databases.pdf)
 * [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](database/amazon_dynamodb_a_scalable_predictably_performant_and_fully_managed_nosql_database_service.pdf)
-* [Are You Sure You Want to Use MMAP in Your Database Management System?](database/are_you_sure_you_want_to_use_mmap_in_your_database_management_system.pdf)
-* [Can Applications Recover from fsync Failures?](database/can_applications_recover_from_fsync_failures.pdf)
 * [Cassandra - A Decentralized Structured Storage System](database/cassandra_a_decentralized_structured_storage_system.pdf)
 * [Dynamo: Amazon’s Highly Available Key-value Store](database/dynamo_amazon_s_highly_available_key_value_store.pdf)
 * [F1: A Distributed SQL Database That Scales](database/f1_a_distributed_sql_database_that_scales.pdf)
