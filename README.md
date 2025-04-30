@@ -26,6 +26,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 
 * [Are You Sure You Want to Use MMAP in Your Database Management System?](correctness/are_you_sure_you_want_to_use_mmap_in_your_database_management_system.pdf)
 * [Can Applications Recover from fsync Failures?](correctness/can_applications_recover_from_fsync_failures.pdf)
+* [High Performance Transactions via Early Write Visibility](correctness/high_performance_transactions_via_early_write_visibility.pdf)
 * [Simple Testing Can Prevent Most Critical Failures](correctness/simple_testing_can_prevent_most_critical_failures.pdf)
 
 ## Database
