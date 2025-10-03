@@ -77,6 +77,11 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](scheduler/mesos_a_platform_for_fine_grained_resource_sharing_in_the_data_center.pdf)
 * [Omega: flexible, scalable schedulers for large compute clusters](scheduler/omega_flexible_scalable_schedulers_for_large_compute_clusters.pdf)
 
+## Time
+
+* [Avoid Using POSIX time_t for Telling Time](time/avoid_using_posix_time_t_for_telling_time.pdf)
+* [Falsehoods Programmers Believe About Time](time/falsehoods_programmers_believe_about_time.pdf)
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
