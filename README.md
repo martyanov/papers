@@ -16,6 +16,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems](consensus/calvin_fast_distributed_transactions_for_partitioned_database_systems.pdf)
 * [In Search of an Understandable Consensus Algorithm](consensus/in_search_of_an_understandable_consensus_algorithm.pdf)
 * [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](consensus/logical_physical_clocks_and_consistent_snapshots_in_globally_distributed_databases.pdf)
+* [PacificA: Replication in Log-Based Distributed Storage Systems](consensus/pacifica_replication_in_log_based_distributed_storage_systems.pdf)
 * [Paxos Made Live - An Engineering Perspective](consensus/paxos_made_live_an_engineering_perspective.pdf)
 * [Paxos Made Simple](consensus/paxos_made_simple.pdf)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](consensus/time_clocks_and_the_ordering_of_events_in_a_distributed_system.pdf)
