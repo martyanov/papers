@@ -13,7 +13,6 @@ The list is highly subjective and by no means complete. If you need more compreh
 
 * [A simple totally ordered broadcast protocol](consensus/a_simple_totally_ordered_broadcast_protocol.pdf)
 * [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](consensus/amazon_aurora_on_avoiding_distributed_consensus_for_i_os_commits_and_membership_changes.pdf)
-* [Calvin: Fast Distributed Transactions for Partitioned Database Systems](consensus/calvin_fast_distributed_transactions_for_partitioned_database_systems.pdf)
 * [In Search of an Understandable Consensus Algorithm](consensus/in_search_of_an_understandable_consensus_algorithm.pdf)
 * [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](consensus/logical_physical_clocks_and_consistent_snapshots_in_globally_distributed_databases.pdf)
 * [PacificA: Replication in Log-Based Distributed Storage Systems](consensus/pacifica_replication_in_log_based_distributed_storage_systems.pdf)
@@ -34,6 +33,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [A Critique of ANSI SQL Isolation Levels](database/a_critique_of_ansi_sql_isolation_levels.pdf)
 * [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](database/amazon_aurora_design_considerations_for_high_throughput_cloud_native_relational_databases.pdf)
 * [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](database/amazon_dynamodb_a_scalable_predictably_performant_and_fully_managed_nosql_database_service.pdf)
+* [Calvin: Fast Distributed Transactions for Partitioned Database Systems](database/calvin_fast_distributed_transactions_for_partitioned_database_systems.pdf)
 * [Cassandra - A Decentralized Structured Storage System](database/cassandra_a_decentralized_structured_storage_system.pdf)
 * [Dynamo: Amazon’s Highly Available Key-value Store](database/dynamo_amazon_s_highly_available_key_value_store.pdf)
 * [F1: A Distributed SQL Database That Scales](database/f1_a_distributed_sql_database_that_scales.pdf)
