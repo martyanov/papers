@@ -41,6 +41,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [Highly Available Transactions: Virtues and Limitations](database/highly_available_transactions_virtues_and_limitations.pdf)
 * [Large-scale Incremental Processing Using Distributed Transactions and Notifications](database/large_scale_incremental_processing_using_distributed_transactions_and_notifications.pdf)
 * [Linearizability: A Correctness Condition for Concurrent Objects](database/linearizability_a_correctness_condition_for_concurrent_objects.pdf)
+* [PNUTS: Yahoo!’s Hosted Data Serving Platform](database/pnuts_yahoo_s_hosted_data_serving_platform.pdf)
 * [Procella: Unifying serving and analytical data at YouTube](database/procella_unifying_serving_and_analytical_data_at_youtube.pdf)
 * [Spanner, TrueTime & The CAP Theorem](database/spanner_truetime_and_the_cap_theorem.pdf)
 * [Spanner: Becoming a SQL System](database/spanner_becoming_a_sql_system.pdf)
