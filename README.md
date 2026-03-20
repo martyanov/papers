@@ -1,6 +1,6 @@
 ## Overview
 
-The list is highly subjective and by no means complete. If you need more comprehensive list of papers, then probably [Papers We Love](https://github.com/papers-we-love/papers-we-love) is a much better resource.
+The list is highly subjective and by no means complete. If you need a more comprehensive list of papers, then probably [Papers We Love](https://github.com/papers-we-love/papers-we-love) is a much better resource.
 
 ## Algorithms and data structures
 
