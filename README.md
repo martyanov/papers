@@ -37,6 +37,7 @@ The list is highly subjective and by no means complete. If you need more compreh
 * [Cassandra - A Decentralized Structured Storage System](database/cassandra_a_decentralized_structured_storage_system.pdf)
 * [Dynamo: Amazon’s Highly Available Key-value Store](database/dynamo_amazon_s_highly_available_key_value_store.pdf)
 * [F1: A Distributed SQL Database That Scales](database/f1_a_distributed_sql_database_that_scales.pdf)
+* [FoundationDB: A Distributed Unbundled Transactional Key Value Store](database/foundationdb_a_distributed_unbundled_transactional_key_value_store.pdf)
 * [High Performance Transactions via Early Write Visibility](database/high_performance_transactions_via_early_write_visibility.pdf)
 * [Highly Available Transactions: Virtues and Limitations](database/highly_available_transactions_virtues_and_limitations.pdf)
 * [Large-scale Incremental Processing Using Distributed Transactions and Notifications](database/large_scale_incremental_processing_using_distributed_transactions_and_notifications.pdf)
