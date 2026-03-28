@@ -10,6 +10,11 @@ The list is highly subjective and by no means complete. If you need a more compr
 * [RadixZip: Linear Time Compression of Token Streams](algorithms/radixzip_linear_time_compression_of_token_streams.pdf)
 * [SPFresh: Incremental In-Place Update for Billion-Scale Vector Search](algorithms/spfresh_incremental_in_place_update_for_billion_scale_vector_search.pdf)
 
+## Cache
+
+* [EC-Cache: Load-Balanced, Low-Latency Cluster Caching with Online Erasure Coding](cache/ec_cache_load_balanced_low_latency_cluster_caching_with_online_erasure_coding.pdf)
+* [Segcache: a memory-efficient and scalable in-memory key-value cache for small objects](cache/segcache_a_memory_efficient_and_scalable_in_memory_key_value_cache_for_small_objects.pdf)
+
 ## Consensus
 
 * [A simple totally ordered broadcast protocol](consensus/a_simple_totally_ordered_broadcast_protocol.pdf)
