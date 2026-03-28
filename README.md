@@ -36,6 +36,7 @@ The list is highly subjective and by no means complete. If you need a more compr
 * [Amazon MemoryDB: A Fast and Durable Memory-First Cloud](database/amazon_memorydb_a_fast_and_durable_memory_first_cloud_database.pdf)
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems](database/calvin_fast_distributed_transactions_for_partitioned_database_systems.pdf)
 * [Cassandra - A Decentralized Structured Storage System](database/cassandra_a_decentralized_structured_storage_system.pdf)
+* [Distributed Transactions at Scale in Amazon DynamoDB](database/distributed_transactions_at_scale_in_amazon_dynamodb.pdf)
 * [Dynamo: Amazon’s Highly Available Key-value Store](database/dynamo_amazon_s_highly_available_key_value_store.pdf)
 * [F1: A Distributed SQL Database That Scales](database/f1_a_distributed_sql_database_that_scales.pdf)
 * [FoundationDB: A Distributed Unbundled Transactional Key Value Store](database/foundationdb_a_distributed_unbundled_transactional_key_value_store.pdf)
