@@ -23,10 +23,11 @@ The list is highly subjective and by no means complete. If you need a more compr
 * [Unreliable Failure Detectors for Reliable Distributed Systems](consensus/unreliable_failure_detectors_for_reliable_distributed_systems.pdf)
 * [Viewstamped Replication Revisited](consensus/viewstamped_replication_revisited.pdf)
 
-## Correctness, testing and implementation
+## Correctness, testing, reliability, and implementation
 
 * [Are You Sure You Want to Use MMAP in Your Database Management System?](correctness/are_you_sure_you_want_to_use_mmap_in_your_database_management_system.pdf)
 * [Can Applications Recover from fsync Failures?](correctness/can_applications_recover_from_fsync_failures.pdf)
+* [Metastable Failures in Distributed Systems](correctness/metastable_failures_in_distributed_systems.pdf)
 * [Simple Testing Can Prevent Most Critical Failures](correctness/simple_testing_can_prevent_most_critical_failures.pdf)
 
 ## Database
