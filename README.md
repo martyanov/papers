@@ -7,6 +7,7 @@ The list is highly subjective and by no means complete. If you need a more compr
 * [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](algorithms/efficient_and_robust_approximate_nearest_neighbor_search_using_hierarchical_navigable_small_world_graphs.pdf)
 * [FIFO Queues are All You Need for Cache Eviction](algorithms/fifo_queues_are_all_you_need_for_cache_eviction.pdf)
 * [Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility](algorithms/hashed_and_hierarchical_timing_wheels_efficient_data_structures_for_implementing_a_timer_facility.pdf)
+* [RadixZip: Linear Time Compression of Token Streams](algorithms/radixzip_linear_time_compression_of_token_streams.pdf)
 * [SPFresh: Incremental In-Place Update for Billion-Scale Vector Search](algorithms/spfresh_incremental_in_place_update_for_billion_scale_vector_search.pdf)
 
 ## Consensus
