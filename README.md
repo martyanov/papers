@@ -12,6 +12,8 @@ The list is highly subjective and by no means complete. If you need a more compr
 
 ## Cache
 
+* [A large scale analysis of hundreds of in-memory cache clusters at Twitter](cache/a_large_scale_analysis_of_hundreds_of_in_memory_cache_clusters_at_twitter.pdf)
+* [Adaptive Software Cache Management](cache/adaptive_software_cache_management.pdf)
 * [EC-Cache: Load-Balanced, Low-Latency Cluster Caching with Online Erasure Coding](cache/ec_cache_load_balanced_low_latency_cluster_caching_with_online_erasure_coding.pdf)
 * [Segcache: a memory-efficient and scalable in-memory key-value cache for small objects](cache/segcache_a_memory_efficient_and_scalable_in_memory_key_value_cache_for_small_objects.pdf)
 
