@@ -29,6 +29,7 @@ The list is highly subjective and by no means complete. If you need a more compr
 * [Time, Clocks, and the Ordering of Events in a Distributed System](consensus/time_clocks_and_the_ordering_of_events_in_a_distributed_system.pdf)
 * [Unreliable Failure Detectors for Reliable Distributed Systems](consensus/unreliable_failure_detectors_for_reliable_distributed_systems.pdf)
 * [Viewstamped Replication Revisited](consensus/viewstamped_replication_revisited.pdf)
+* [Voting with Witnesses: A Consistency Scheme for Replicated Files](consensus/voting_with_witnesses_a_consistency_scheme_for_replicated_files.pdf)
 
 ## Correctness, testing, reliability, and implementation
 
